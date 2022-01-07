@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetigatorLinq", "MetigatorLinq\MetigatorLinq.csproj", "{2CC220E7-8B2E-4958-A99A-FBF8574135E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MetigatorLinq", "MetigatorLinq\MetigatorLinq.csproj", "{2CC220E7-8B2E-4958-A99A-FBF8574135E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PureVSImpureFunction", "PureVSImpureFunction\PureVSImpureFunction.csproj", "{0BFFC577-CD25-4097-832A-7F246D259A18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PureVSImpureFunction", "PureVSImpureFunction\PureVSImpureFunction.csproj", "{0BFFC577-CD25-4097-832A-7F246D259A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Function-ProgramingLinq", "Function-ProgramingLinq\Function-ProgramingLinq.csproj", "{24F1FE29-410E-4162-A523-E5C10836BE61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CADelegate", "CADelegate\CADelegate.csproj", "{6AE271FB-9CE0-4201-B3C0-DC71442DDE2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{0BFFC577-CD25-4097-832A-7F246D259A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BFFC577-CD25-4097-832A-7F246D259A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BFFC577-CD25-4097-832A-7F246D259A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24F1FE29-410E-4162-A523-E5C10836BE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24F1FE29-410E-4162-A523-E5C10836BE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24F1FE29-410E-4162-A523-E5C10836BE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24F1FE29-410E-4162-A523-E5C10836BE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AE271FB-9CE0-4201-B3C0-DC71442DDE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE271FB-9CE0-4201-B3C0-DC71442DDE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE271FB-9CE0-4201-B3C0-DC71442DDE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE271FB-9CE0-4201-B3C0-DC71442DDE2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
